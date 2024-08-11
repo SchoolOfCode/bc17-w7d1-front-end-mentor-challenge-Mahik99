@@ -1,0 +1,78 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(252, 241, 227);
+  padding: 110px;
+  margin: 0;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: white;
+  max-width: 600px;
+  width: 100%;
+  border-radius: 15px;
+  padding: 30px;
+}
+
+.card img {
+  display: block;
+  width: 100%;
+}
+
+.content {
+  padding: 25px;
+  gap: 10px;
+}
+
+h2,
+p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 14px;
+  color: hsla(0, 1%, 17%, 0.63);
+  font-weight: 500, 700;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 40px;
+  font-variation-settings: "SOFT" 0, "WONK" 0;
+}
+
+.new-price {
+  color: #3d806b;
+  font-size: 25px;
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.old-price {
+  font-size: 14px;
+  color: #b6b6b6;
+  text-decoration: line-through;
+}
+
+.add-to-cart {
+  background-color: #35705d;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  width: 70%;
+  padding: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.add-to-cart svg {
+  margin-right: 10px;
+}
