@@ -24,12 +24,13 @@
 # CSS
 
 - Style the body- white background, 0 margin, use flexbox to center the preview card ✅
-- Use grid layout for the preview card? Split into two columns- one for the image on the left and one for the text on the right of the card
-- Centre card in the middle of the page
-- Use specified fonts and colours listed below
-- Individually style h1, h2, p, img elements
-- Style the new price to be green and bigger than old price, old price should be grey with a line through it
-- Add to cart button- text should be white, bold (700 weight), should have rounded corners (border-radius), add padding too
+- Use grid layout for the preview card? Split into two columns- one for the image on the left and one for the text on the right of the card ✅
+- Centre card in the middle of the page ✅
+- Use specified fonts and colours listed below ✅
+- Individually style h1, h2, p, img elements ✅
+- Style the new price to be green and bigger than old price, old price should be grey with a line through it ✅
+- Add to cart button- text should be white, bold (700 weight), should have rounded corners (border-radius), add padding too ✅
+- Make it responsive
 
 ## Layout
 
