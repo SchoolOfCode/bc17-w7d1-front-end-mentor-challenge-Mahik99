@@ -2,13 +2,13 @@
 
 # HTML
 
-- Add basic HTML boiler plate
-- Craete a div with the class `card` to wrap entire content of the preview card
-- Add image of perfume- implement semantic HTML eg `<figure>` to wrap image
-- Add h1 and h2 for headings, wrap with `<hgroup>`
-- Use article tags with a class for the product description
-- Specify old and new price by class to style differently in CSS
-- `Add  to cart` should be a button with a class - find appropriate cart svg to use
+- Add basic HTML boiler plate ✅
+- Craete a div with the class `card` to wrap entire content of the preview card ✅
+- Add image of perfume- implement semantic HTML eg `<figure>` to wrap image ✅
+- Add h1 and h2 for headings, wrap with `<hgroup>` ✅
+- Use article tags with a class for the product description ✅
+- Specify old and new price by class to style differently in CSS ✅
+- `Add  to cart` should be a button with a class - find appropriate cart svg to use ✅
 
 # CSS
 
